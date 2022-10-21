@@ -11,10 +11,12 @@ header img {
 header h2 {
 	font-size: 170%;
 	color: #800000;
-	text-indent: 30px
+	text-indent: 30px;
 }
 header h3{
-
+	font-size: 130%;
+	font-style: italic;
+	text-indent: 30px;
 }
 
 /* the styles for the main content */
