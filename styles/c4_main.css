@@ -18,6 +18,9 @@ header h3 {
 	font-style: italic;
 	text-indent: 30px;
 }
+header .shadow{
+	text-shadow: #800000;
+}
 
 /* the styles for the main content */
 main {
